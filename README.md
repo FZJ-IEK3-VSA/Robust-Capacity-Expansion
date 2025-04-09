@@ -72,7 +72,7 @@ We are happy for any interested readers to contact us via [s.kebrich@fz-juelich.
 
 ## Authors and acknowledgment
 This code was jointly implemented by Sebastian Kebrich and Felix Engelhardt. 
-We thank our co-authors Heidi Heinrichs, Christina Büsing and David Franzmann for their support. 
+We thank our co-authors Heidi Heinrichs, Jochen Linßen, Christina Büsing and David Franzmann for their support. 
 
 ## License
 All code is under a Creative Commons Attribution 4.0 International license. Note that this explicitly does not include the data files used. Please refer to the individual sources when using them. 

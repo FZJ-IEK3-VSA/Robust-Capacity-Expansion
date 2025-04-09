@@ -1,7 +1,7 @@
-# Operationally Robust Energy Systems
+# Energy Systems Robust against Weather and Demand Uncertainty
 
 ## Description
-This repository contains the code to the paper "TODO". This includes:
+This repository contains the code to the paper "Robust Capacity Expansion Modelling for Renewable Energy Systems under Weather and Demand Uncertainty". This includes:
 
 * data
 * an energy system model in the framework *FINE*
